@@ -10,7 +10,9 @@ We'll do this together in class. If you finish early, help a neighbor.
 
 ## Before you start
 
-You need the Assignment 1 toolchain: Python, Git, VS Code with the Python extension, and a GitHub account you're signed in to. If you haven't finished Assignment 1 yet, tell your instructor now. You can follow along with a neighbor.
+In person students -->  It would be idea to already have your GitHub Account set up and know your password and creditials.
+
+If ONLINE --> You need the Assignment 1 toolchain: Python, Git, VS Code with the Python extension, and a GitHub account you're signed in to. If you haven't finished Assignment 1 yet, tell your instructor now. You can follow along with a neighbor.
 
 ---
 
